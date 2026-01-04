@@ -1,8 +1,4 @@
 # CC2 ADM Damien Quemener
----
-title: "Analyse de données métabarcode d'un article (Damien Quemener)"
-output: github_document
----
 ```{r}
 library(dada2)
 library(Rcpp)
